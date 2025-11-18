@@ -33,5 +33,10 @@ In order to install this project, `CRTL`+`SHIFT`+`ù` or open a new powershell t
 
 - [Postgre](https://www.postgresql.org) -> Bdd Sql
 
+### Informations
+
+The public folder is used for your .fbx files. Once you've installed the project you can delete .gitkeep.
+
+
 ## Addons
 I'll try to create a file that installs [`PostgreSQL`](https://www.pgadmin.org/download) on your device and creates a database with tables similar to mine, as well as an .env file to facilitate the creation of new projects.
