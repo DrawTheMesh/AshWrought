@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+.env
+Climbing_Down.fbx
+Running_Crawl.fbx
