@@ -4,7 +4,8 @@
 ## Author
 Nameless
 
-## Description
+## NEW FEATURE IN DEVELOPMENT
+### Description
 
 Basically, what I want to do with this project is create a small game, at least one part of it.
 This small game will be made with ElectronJS, and the player's XYZ data, username, deaths, and items owned will be sent to a PostgreSQL database connected to this site.
